@@ -155,6 +155,9 @@ img {
   grid-template-columns: 1fr 1fr;
   gap: 20px;
 }
+.testing {
+  margin-top: 200px;
+}
 .view-post {
   width: 80%;
   border-radius: 10px;
